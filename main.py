@@ -2,8 +2,6 @@ from vidstream import AudioSender
 from vidstream import AudioReceiver
 import threading
 import socket
-import numpy
-import wikipedia
 
 ip = socket.gethostbyname(socket.gethostname())
 
