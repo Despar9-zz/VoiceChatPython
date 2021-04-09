@@ -1,2 +1,2 @@
 # VoiceChatPython
-A simple Voice Chat in Python. Nothing too big.
+A simple Voice Chat in Python. Nothing too big...
